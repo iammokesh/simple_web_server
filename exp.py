@@ -20,7 +20,7 @@ Version	22H2    OS Build	19045.6332
 </pre>
 
 
-<\html>
+</html>
 '''
 class myserver(BaseHTTPRequestHandler):
     def do_GET(self):
